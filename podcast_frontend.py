@@ -46,6 +46,7 @@ def main():
             st.write(podcast_info['podcast_guest'])
 
         with col4:
+            st.subheader("")
             #st.subheader("Podcast Guest Details")
             #st.write(podcast_info["podcast_guest"]['summary'])
             #st.write(podcast_info["podcast_guest"])
@@ -95,6 +96,7 @@ def main():
             #st.write(podcast_info['podcast_guest']['name'])
             st.write(podcast_info['podcast_guest'])
         with col4:
+            st.subheader("")
             #st.subheader("Podcast Guest Details")
             #st.write(podcast_info["podcast_guest"]['summary'])
             #st.write(podcast_info["podcast_guest"])
